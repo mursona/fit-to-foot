@@ -1,0 +1,17 @@
+.bg-bg-color{
+    background-color: #FFF9F4;
+}
+.header-text-one{
+    color: #FA804C;
+    font-family: 'Bebas Neue', cursive;
+}
+.header-text-two{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+}
+.card-text-title{
+    color: #363958;
+}
+.btn-bg-color{
+    background-image: linear-gradient(#3D4FF3, #3543BC);
+}
